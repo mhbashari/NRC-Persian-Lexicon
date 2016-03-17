@@ -5,6 +5,7 @@ The [NRC Emotion Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.h
 There is an Excel file that contains the translation of the english words (without complete coverage on all languages).I wrote a small code to combine the main text file (containing emotion annotations) and Excel translation file.
 ## Dependency
 1. pandas
+
 # Future Works
 1. Develop an out-of-the-box python package
 2. Upload to pypi
