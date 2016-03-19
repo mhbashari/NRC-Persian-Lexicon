@@ -1,5 +1,5 @@
 # NRC-Persian-Lexicon
-NRC Word-Emotion Association Lexicon useful for persian sentiment analysing
+NRC Word-Emotion Association Lexicon useful for persian sentiment analysis
 
 The [NRC Emotion Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) is a list of English words and their associations with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive). The annotations were manually done by crowdsourcing.
 ## Persian Translation of The Lexicon
