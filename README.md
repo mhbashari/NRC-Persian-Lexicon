@@ -7,6 +7,3 @@ There is an Excel file that contains the translation (Google Translate) of the e
 ## Dependency
 1. xlrd
 
-# Future Works
-1. Develop an out-of-the-box python package
-2. Upload to pypi
